@@ -9,7 +9,7 @@ Libary Website: [https://quantecon.org/quantecon-py/](https://quantecon.org/quan
 
 See the [library website](https://quantecon.org/quantecon-py/) for instructions
 
-#### Build and Coverage Status:
+#### Build and Coverage Status:  
 
 [![Build Status](https://travis-ci.org/QuantEcon/QuantEcon.py.svg?branch=master)](https://travis-ci.org/QuantEcon/QuantEcon.py)
 [![Coverage Status](https://coveralls.io/repos/QuantEcon/QuantEcon.py/badge.svg)](https://coveralls.io/r/QuantEcon/QuantEcon.py)
